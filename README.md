@@ -1,2 +1,2 @@
 # Whack a mole 
-## Try it [here] (https://whackamole-rahul.netlify.app/) 
+## Try it [here](https://whackamole-rahul.netlify.app/) 
